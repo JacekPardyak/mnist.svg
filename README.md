@@ -22,3 +22,7 @@ array([1, 1, 1, ..., 2, 2, 2])
 
 # Notebooks
 
+- basic digits morphing - https://github.com/JacekPardyak/mnist.svg/tree/master/notebooks
+
+- digits classification and other stuff: https://www.kaggle.com/datasets/jacekpardyak/mnist-svg
+
